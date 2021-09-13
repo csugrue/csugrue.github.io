@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chris Sugrue</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 06 Jan 2016 09:56:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Augmented Hand Series</title>
+		<link>/augmented-hand-series/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Sun, 28 Dec 2014 17:23:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=36</guid>
+
+					<description><![CDATA[By Golan Levin, Chris Sugrue, and Kyle McDonald. A real-time interactive software system that presents playful, dreamlike, and uncanny transformations of its visitors' hands.]]></description>
+										<content:encoded><![CDATA[<p>The &#8220;Augmented Hand Series&#8221; (by Golan Levin, Chris Sugrue, and Kyle McDonald) is a real-time interactive software system that presents playful, dreamlike, and uncanny transformations of its visitors&#8217; hands. It consists of a box into which the visitor inserts their hand, and a screen which displays their &#8216;reimagined&#8217; hand—for example, with an extra finger, or with fingers that move autonomously. Critically, the project&#8217;s transformations operate within the logical space of the hand itself, which is to say: the artwork performs &#8220;hand-aware&#8221; visualizations that alter the deep structure of how the hand appears.</p>
+<p>The project was developed at the Frank-Ratchye STUDIO for Creative Inquiry in 2013-2014 through a commission from the Cinekid Festival of children&#8217;s media.</p>
+<p>Read more: <a href="http://www.flong.com/projects/augmented-hand-series/">flong.com/projects/augmented-hand-series</a></p>
+
+<a href='/wp-content/uploads/2015/12/CK-14-0351-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/CK-14-0351-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/CK-14-0351-300x200.jpg 300w, /wp-content/uploads/2015/12/CK-14-0351-768x512.jpg 768w, /wp-content/uploads/2015/12/CK-14-0351-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/CK-14-0546-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/CK-14-0546-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/CK-14-0546-300x200.jpg 300w, /wp-content/uploads/2015/12/CK-14-0546-768x512.jpg 768w, /wp-content/uploads/2015/12/CK-14-0546-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/CK-14-0549-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/CK-14-0549-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/CK-14-0549-300x200.jpg 300w, /wp-content/uploads/2015/12/CK-14-0549-768x512.jpg 768w, /wp-content/uploads/2015/12/CK-14-0549-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/111864451?portrait=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/111951283?portrait=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Memory of Form and Matter</title>
+		<link>/memory-of-form-and-matter/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Sat, 28 Dec 2013 17:17:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=32</guid>
+
+					<description><![CDATA[A sculpture exploring hybrid digital-physical forms. It combines algorithmically generated structures with digital simulations and animation. ]]></description>
+										<content:encoded><![CDATA[<p><em>Memory of Form and Matter</em> is a sculpture series exploring hybrid digital-physical forms. It combines algorithmically generated structures with digital simulations and animation. The digital fabrications are the static, solid output of a digital system. The simulations on the other hand seem alive with motion, but are ethereal and made of light.The sculptures consider the object as having multiple forms some more easily perceived than others.</p>
+<p>In the first work-in-progress exploration, the design of the objects are created through programmed movement using physics simulations. The same basic algorithms are seen in the digital half of the sculpture each a version of the other. The two spaces are physically separate but are united through a looking glass. If viewed from a precise position the two worlds are seen together.</p>
+<p><span class="entrysubtext ">Developed at iMal&#8217;s artist in residence program, Brussels, Belgium. Created using <a href="http://openframeworks.cc/">openFrameworks.</a></span></p>
+
+<a href='/wp-content/uploads/2015/12/IMG_9307-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/IMG_9307-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_9307-300x200.jpg 300w, /wp-content/uploads/2015/12/IMG_9307-768x512.jpg 768w, /wp-content/uploads/2015/12/IMG_9307-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/IMG_9316-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/IMG_9316-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_9316-300x200.jpg 300w, /wp-content/uploads/2015/12/IMG_9316-768x512.jpg 768w, /wp-content/uploads/2015/12/IMG_9316-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/IMG_9280-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/IMG_9280-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_9280-300x200.jpg 300w, /wp-content/uploads/2015/12/IMG_9280-768x512.jpg 768w, /wp-content/uploads/2015/12/IMG_9280-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Base 8</title>
+		<link>/base8/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Wed, 28 Dec 2011 17:05:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=23</guid>
+
+					<description><![CDATA[An exploration of the negative spaces and movements between fingers, hands and arms. Reflections through glass creates the illusion of a world floating in air.]]></description>
+										<content:encoded><![CDATA[<p><em>Base 8</em> explores the negative spaces and movements between fingers, hands and arms. A reflection through glass creates the illusion of a world floating in air. As visitors reach into the space, moving structures and abstract geometric forms begin to appear in between their fingers or grow out from their hands and arms.</p>
+<p>The title of the work was inspired by several rare languages that developed an octal counting base because their culture counted using the spaces in between fingers rather than the fingers themselves (as in the much more common decimal system).</p>
+<p>The work uses a 19th century theater trick (Pepper&#8217;s ghost) that was originally employed to create the illusion of phantoms or spirits on the stage with live actors. In this modern adaptation of the technique, the illusion is used to create the sensation of a reactive floating world coming to life directly around the visitors body.</p>
+<p><span class="entrysubtext ">Developed at Ljudmila´s artist in residence program, Ljubljana, Slovenia. First exhibited 4th &#8211; 14th July 2011 at KiBela gallery, Kibla, Maribor, Slovenia.Production: <a href="http://www.ljudmila.org/">Ljudmila</a>, Ljubljana Digital Media Lab at KUD france prešeren trnovo. Co-production: <a href="http://www.kibla.org/">KIBLA.</a> Created using <a href="http://openframeworks.cc/">openFrameworks.</a></span> </p>
+
+<a href='/wp-content/uploads/2015/12/IMG_5011-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/IMG_5011-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_5011-300x200.jpg 300w, /wp-content/uploads/2015/12/IMG_5011-768x512.jpg 768w, /wp-content/uploads/2015/12/IMG_5011-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/IMG_4968-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/IMG_4968-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_4968-300x200.jpg 300w, /wp-content/uploads/2015/12/IMG_4968-768x512.jpg 768w, /wp-content/uploads/2015/12/IMG_4968-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/IMG_5031-1024x683.jpg'><img width="300" height="200" src="/wp-content/uploads/2015/12/IMG_5031-300x200.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_5031-300x200.jpg 300w, /wp-content/uploads/2015/12/IMG_5031-768x512.jpg 768w, /wp-content/uploads/2015/12/IMG_5031-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/30834797?portrait=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The EyeWriter</title>
+		<link>/the-eyewriter/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Tue, 28 Dec 2010 17:26:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=38</guid>
+
+					<description><![CDATA[A low-cost eyetracking system originally designed for paralyzed graffiti artist TEMPT1. The EyeWriter system uses inexpensive cameras and open-source computer vision software to track the wearer's eye movements.]]></description>
+										<content:encoded><![CDATA[<p>The EyeWriter (by Tempt1, Evan Roth, Chris Sugrue, Zach Lieberman,Theo Watson and James Powderly) is a low-cost eyetracking system originally designed for paralyzed graffiti artist TEMPT1. The EyeWriter system uses inexpensive cameras and open-source computer vision software to track the wearer&#8217;s eye movements.</p>
+<p>The project has been recognized with numerous awards including the 2010 Prix Ars Electronica and the 2010 FutureEverything Award.EyeWriter was featured in 2009 at the CREAM International Festival for Arts &#038; Media in Yokohama. TEMPT1 was also featured in 2009 projected on Kyoto City Hall. EyeWriter was part of the Talk to Me exhibit at MoMA on display from July 24 until November 7, 2011.</p>
+<p><a href="http://www.eyewriter.org/">eyewriter.org</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Decrypted Reflections</title>
+		<link>/decryptedreflections/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Mon, 28 Dec 2009 17:08:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=26</guid>
+
+					<description><![CDATA[An interactive installation that explores light, space, and generative systems. An analog system of mirrors allows the visitor to manipulate the projected image, moving its broken pieces to create new structures, or explore the original form.]]></description>
+										<content:encoded><![CDATA[<p>An interactive installation that explores light, space, and generative systems. The interface for the work is an analog system of mirrors that allows the visitor to manipulate the projected image, moving its broken pieces to create new structures, or explore the original form.</p>
+<p>Generative forms with organic shapes that suggest skeletal structures are created and animated in the projection. These images are broken apart by the mirrors and appear in the space fragmented. Moving the mirrors can reveal the completed structure, however, if instead, the pieces are reconfigured to create new forms, the next generation is created from this information.</p>
+<p><span class="entrysubtext ">Created with the support of Harvestworks and La Casa de Velázquez.</span></p>
+
+<a href='/wp-content/uploads/2015/12/IMG_0537-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/IMG_0537-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_0537-300x225.jpg 300w, /wp-content/uploads/2015/12/IMG_0537-768x576.jpg 768w, /wp-content/uploads/2015/12/IMG_0537-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/IMG_0593-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/IMG_0593-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_0593-300x225.jpg 300w, /wp-content/uploads/2015/12/IMG_0593-768x576.jpg 768w, /wp-content/uploads/2015/12/IMG_0593-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/IMG_0542-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/IMG_0542-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_0542-300x225.jpg 300w, /wp-content/uploads/2015/12/IMG_0542-768x576.jpg 768w, /wp-content/uploads/2015/12/IMG_0542-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/7652087" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Waves to Waves to Waves</title>
+		<link>/waves/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Sun, 28 Dec 2008 17:19:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=34</guid>
+
+					<description><![CDATA[With specialized devices sensitive to changes in electromagnetic fields, detected changes are converted into electrical signals and a unique landscape of sound and structure is slowly uncovered.]]></description>
+										<content:encoded><![CDATA[<p>Created in collaboration with Damian Stewart.</p>
+<p>Human-generated electromagnetic waves are traveling over, around and through us all the time. Wifi, cellphones, radio, and television broadcast all create electromagnetic fields that are &#8216;loud&#8217; compared to the natural background, but imperceptible to the human senses. This invisible world is alive with activity that directly reflects our growing relationship to and dependence on, technology.</p>
+<p>With specialized devices sensitive to changes in electromagnetic fields, detected changes are converted into electrical signals and a unique landscape of sound and structure is slowly uncovered. Snarling wires pulsate and grow in wild masses, cellular-like forms explode as bit torrents download files, and subtle reeds dance and dangle as cellular phone signals cross the room.</p>
+<p><span class="entrysubtext ">Created with the support of Medialab-Prado. Credits: Servando Barreiro, Carla Capeto, Mariana Caranza, María José Alós, Sergio Manuel Galán Nieto.</span></p>
+
+<a href='/wp-content/uploads/2015/12/waves_circles.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/waves_circles-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/waves_circles-300x225.jpg 300w, /wp-content/uploads/2015/12/waves_circles-768x576.jpg 768w, /wp-content/uploads/2015/12/waves_circles.jpg 890w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/reeds-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/reeds-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/reeds-300x225.jpg 300w, /wp-content/uploads/2015/12/reeds-768x576.jpg 768w, /wp-content/uploads/2015/12/reeds.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/snarls.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/snarls-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/snarls-300x225.jpg 300w, /wp-content/uploads/2015/12/snarls.jpg 727w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/12621610?portrait=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Cable Plays</title>
+		<link>/acableplays/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Sun, 28 Dec 2008 16:55:50 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=19</guid>
+
+					<description><![CDATA[A Cable Plays is an audio-visual performance where two performers take turns pinning bits of yarn across a game board. An augmented video reveals a world coming to life between the patterns.]]></description>
+										<content:encoded><![CDATA[<p>Created in collaboration with Damian Stewart.</p>
+<p><em>A Cable Plays</em> is an audio-visual performance where two performers appear to be engaged in a strange game or ritual. As they take turns pinning bits of yarn across an arcane game board, an augmented video of their play-space reveals a world coming to life between the patterns.</p>
+<p>The work was inspired by hidden rules between people, in the underlying mathematics of games, and the patterns and behaviors that can emerge from simple rule sets. In this performed narrative, the two players choices influence the audio and visual components. The piece opens with simple abstract organic shapes that resemble cells or nuclei that evolve into more complex forms and feedback. Rising complexity in both the visuals and audio eventually climaxes to a point where the players have no choice but to destroy their creation and leave their mystical world in ruin.</p>
+
+<a href='/wp-content/uploads/2015/12/aCable_3-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/aCable_3-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/aCable_3-300x225.jpg 300w, /wp-content/uploads/2015/12/aCable_3-768x576.jpg 768w, /wp-content/uploads/2015/12/aCable_3-1024x768.jpg 1024w, /wp-content/uploads/2015/12/aCable_3.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/img_1141-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/img_1141-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/img_1141-300x225.jpg 300w, /wp-content/uploads/2015/12/img_1141-768x576.jpg 768w, /wp-content/uploads/2015/12/img_1141-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/aCable_1-e1451485492636-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/aCable_1-e1451485492636-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/aCable_1-e1451485492636-300x225.jpg 300w, /wp-content/uploads/2015/12/aCable_1-e1451485492636-768x576.jpg 768w, /wp-content/uploads/2015/12/aCable_1-e1451485492636-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/12618634?portrait=0" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Delicate Boundaries</title>
+		<link>/delicateboundaries/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Fri, 28 Dec 2007 17:12:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[artwork]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=30</guid>
+
+					<description><![CDATA[This interactive installation imagines that the worlds inside our digital devices can move into the physical world. Small bugs made of light crawl out of a computer screen.]]></description>
+										<content:encoded><![CDATA[<p>This interactive installation imagines that the worlds inside our digital devices can move into the physical world. Small bugs made of light crawl out of a computer screen onto the human bodies that make contact with them, often surprising their audience as they try to abandon a virtual existence. The magic of the illusion takes shape as the audience lets them explore their bodies, crawling from one person to the next in a strangely intimate way.</p>
+<p>As digital technologies have become embedded in everyday life, the line between the virtual and real is increasingly blurred. <em>Delicate Boundaries</em> playfully explores our expectations and understanding of interfaces and interactivity.</p>
+<p><span class="entrysubtext ">Awarded first prize by <a href="http://www.toshare.it/?page_id=326&amp;lang=en">Share Festival</a> and special mention from the <a href="http://www.fundacion.telefonica.com/arteytecnologia/certamen_vida/en/ediciones/vida10/delicateboundaries.htm">Vida Art and Artificial Life</a>.<br />
+Created with the support of <a href="http://medialab-prado.es/">Medialab-Prado</a>, <a href="http://eyebeam.org/">Eyebeam Art and Technology Center</a>, and <a href="http://hangar.org/">Hangar</a>.<br />
+Credits: Zachary Lieberman, Damian Stewart, Blanca Rego, Jordi Puig, Gonzalo Posada.<br />
+</span></p>
+
+<a href='/wp-content/uploads/2015/12/IMG_2592-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/IMG_2592-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_2592-300x225.jpg 300w, /wp-content/uploads/2015/12/IMG_2592-768x576.jpg 768w, /wp-content/uploads/2015/12/IMG_2592-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/L1050648-e1451480037192-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/L1050648-e1451480037192-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/L1050648-e1451480037192-300x225.jpg 300w, /wp-content/uploads/2015/12/L1050648-e1451480037192-768x576.jpg 768w, /wp-content/uploads/2015/12/L1050648-e1451480037192-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='/wp-content/uploads/2015/12/IMG_2593-1024x768.jpg'><img width="300" height="225" src="/wp-content/uploads/2015/12/IMG_2593-300x225.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="/wp-content/uploads/2015/12/IMG_2593-300x225.jpg 300w, /wp-content/uploads/2015/12/IMG_2593-768x576.jpg 768w, /wp-content/uploads/2015/12/IMG_2593-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/1007230" width="800" height="603" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Re-Gaze</title>
+		<link>/regaze/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Sat, 30 Dec 2006 16:51:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://csugrue.webfactional.com/?p=139</guid>
+
+					<description><![CDATA[Re-Gaze</em> uses eye-tracking to explore relationships between vision and imagery. Visual fixations and eye movements of an individual cause a sequence of images to react, form and respond to being seen.]]></description>
+										<content:encoded><![CDATA[<p><em>Re-Gaze</em> is an interactive installation that explores relationships between vision and imagery. Visual fixations and eye movements cause a sequence of images are revealed or react to being seen. The work emerges from an investigation into the human visual system, eye tracking, visual illusion, and studies in psychology and cognitive science.</p>
+<p>This work was created as part of thesis investigations for a Masters of Fine Arts in Design and Technology at the <a href="http://amt.parsons.edu/programs/dt/">Parsons School of Design</a> in New York.</p>
+<p><img loading="lazy" src="http://chrissugrue.com/wp-content/uploads/2016/01/rg_home-225x300.jpg" alt="rg_home" width="225" height="300" class="alignnone size-medium wp-image-146" srcset="/wp-content/uploads/2016/01/rg_home-225x300.jpg 225w, /wp-content/uploads/2016/01/rg_home.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Two Lines</title>
+		<link>/twolines/</link>
+		
+		<dc:creator><![CDATA[csugrue]]></dc:creator>
+		<pubDate>Sun, 01 Jan 2006 18:15:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://chrissugrue.com/?p=148</guid>
+
+					<description><![CDATA[A pair of lines urgently race forward into an endless empty landscape. Two lines distort and tangle as an unseen toroidal force pushes and pulls.]]></description>
+										<content:encoded><![CDATA[<p>A pair of lines urgently race forward into an endless empty landscape. Two lines distort and tangle as an unseen toroidal force pushes and pulls.</p>
+<p><em>Two Lines</em> is a system exploring movement, behavior and depth. The same basic structure is altered in simple, but vital ways to create tension and opposition while maintaining moments of rhythm and synchronization.</p>
+<p>Created with the support of Eyebeam Art and Technology Center.</p>
+<p><img loading="lazy" src="http://chrissugrue.com/wp-content/uploads/2016/01/img_2-300x208.jpg" alt="img_2" width="300" height="208" class="alignnone size-medium wp-image-150" srcset="/wp-content/uploads/2016/01/img_2-300x208.jpg 300w, /wp-content/uploads/2016/01/img_2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
